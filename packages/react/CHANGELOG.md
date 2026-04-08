@@ -1,5 +1,19 @@
 # @yamada-ui/react
 
+## 2.1.8
+
+### Patch Changes
+
+- [#6394](https://github.com/yamada-ui/yamada-ui/pull/6394) [`11b2933`](https://github.com/yamada-ui/yamada-ui/commit/11b2933f1a3f667d885de0f133c21352e0f57632) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Allowed `undefined` as an argument for `mergeProps`.
+
+- [#6377](https://github.com/yamada-ui/yamada-ui/pull/6377) [`9de8d1d`](https://github.com/yamada-ui/yamada-ui/commit/9de8d1d18a3cffc0d82f12fe8149e1e5baf54823) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Enabled setting arbitrary string values for each property in Style Props.
+
+- [#6386](https://github.com/yamada-ui/yamada-ui/pull/6386) [`df19405`](https://github.com/yamada-ui/yamada-ui/commit/df19405c30bd5de7d2bf3cc8a9594915fd87ce9a) Thanks [@taroj1205](https://github.com/taroj1205)! - Fixed `Input` and `Select` so padding is applied correctly.
+
+- [#6395](https://github.com/yamada-ui/yamada-ui/pull/6395) [`a766407`](https://github.com/yamada-ui/yamada-ui/commit/a7664077f1f8c40f8facfe7f8623515a630332f4) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Fixed a bug where setting `duration` to `0` in components like `Drawer` was not handled correctly.
+
+- [#6396](https://github.com/yamada-ui/yamada-ui/pull/6396) [`69746af`](https://github.com/yamada-ui/yamada-ui/commit/69746afd70d62d03d2f6e90dedde797c86a51223) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - Added `_groupAnimated` and `_peerAnimated` to condition props.
+
 ## 2.1.7
 
 ### Patch Changes
